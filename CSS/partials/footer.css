@@ -1,0 +1,24 @@
+footer h5{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+footer{
+    color: orangered;
+    position: sticky;
+    left: 0;
+    bottom: 0;
+}
+
+footer h5 a {
+    color: white;
+}
+
+footer h5 a:hover {
+    color: orangered;
+}
